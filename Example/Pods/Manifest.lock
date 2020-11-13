@@ -1,0 +1,16 @@
+PODS:
+  - PMMainViewKit (0.1.0)
+
+DEPENDENCIES:
+  - PMMainViewKit (from `../`)
+
+EXTERNAL SOURCES:
+  PMMainViewKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PMMainViewKit: 0dad4717ef02f344652d01c12bb5673ccf95a549
+
+PODFILE CHECKSUM: 109e0ea0fc0959a86f521f00b6424146f007a4fc
+
+COCOAPODS: 1.9.0

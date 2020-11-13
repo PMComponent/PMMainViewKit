@@ -1,0 +1,6 @@
+framework module Pods_PMMainViewKit_Tests {
+  umbrella header "Pods-PMMainViewKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
